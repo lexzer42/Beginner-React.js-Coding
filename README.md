@@ -26,8 +26,9 @@ Como usar
 
 3. Ejecuta el comando npm install en la ventana de comando o terminal. Esto instalará todas las dependencias necesarias para el proyecto.
 
-Después de que la instalación esté completa, ejecuta el comando npm start. Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
+4. Después de que la instalación esté completa, ejecuta el comando npm start. Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
 
+Ahora deberías ver la aplicación funcionando en tu navegador. Puedes interactuar con el contador haciendo clic en el botón "Incrementar contador!". También se mostrará la lista de usuarios, y puedes cargar más usuarios haciendo clic en el botón "Siguiente usuario!". Puedes ocultar o mostrar la lista de usuarios haciendo clic en el botón "Mostrar lista de usuarios".
 
 How to use it
 
