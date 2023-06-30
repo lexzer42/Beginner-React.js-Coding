@@ -9,15 +9,6 @@ La aplicación utiliza estados para almacenar el contador, el número de página
 El código utiliza interfaces de TypeScript para definir los tipos de los datos recibidos de la API y las funciones que se utilizan. También utiliza referencias para mantener una función actualizada que se utiliza al cargar más usuarios.
 
 
-English
-
-This code is a React application written in TypeScript. The application displays a counter and allows it to be incremented by clicking a button. It also fetches random user information using the "randomuser.me" API and displays a list of users. Clicking another button loads more users. Additionally, there is a button that shows or hides the user list.
-
-The application uses states to store the counter, the page number for making API requests, the user information, and the state that controls whether the user list is shown. It uses effects to make an initial API request and every time the page number is updated.
-
-The code uses TypeScript interfaces to define the types of data received from the API and the functions used. It also uses references to keep a function up to date that is used when loading more users.
-
-
 Como usar
 
 1. Primero, asegúrate de tener npm instalado en tu máquina. Si no lo tienes, puedes descargarlo e instalarlo desde la página oficial (https://www.npmjs.com/get-npm).
@@ -29,6 +20,17 @@ Como usar
 4. Después de que la instalación esté completa, ejecuta el comando npm start. Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
 
 Ahora deberías ver la aplicación funcionando en tu navegador. Puedes interactuar con el contador haciendo clic en el botón "Incrementar contador!". También se mostrará la lista de usuarios, y puedes cargar más usuarios haciendo clic en el botón "Siguiente usuario!". Puedes ocultar o mostrar la lista de usuarios haciendo clic en el botón "Mostrar lista de usuarios".
+
+
+English
+
+This code is a React application written in TypeScript. The application displays a counter and allows it to be incremented by clicking a button. It also fetches random user information using the "randomuser.me" API and displays a list of users. Clicking another button loads more users. Additionally, there is a button that shows or hides the user list.
+
+The application uses states to store the counter, the page number for making API requests, the user information, and the state that controls whether the user list is shown. It uses effects to make an initial API request and every time the page number is updated.
+
+The code uses TypeScript interfaces to define the types of data received from the API and the functions used. It also uses references to keep a function up to date that is used when loading more users.
+
+
 
 How to use it
 
