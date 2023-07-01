@@ -1,6 +1,7 @@
 # Beginner-React.js-Coding-
-
-[![Alt text](https://img.youtube.com/vi/UiPKBAFxC5I/0.jpg)](https://www.youtube.com/watch?v=UiPKBAFxC5I)
+                                              Video
+                      
+[![Alt text](https://img.youtube.com/vi/IbJFERe9F9w/0.jpg)](https://www.youtube.com/watch?v=UiPKBAFxC5I) 
 
 Español
 
@@ -17,9 +18,9 @@ Como usar
 
 2. Abre una ventana de comando o terminal y navega hasta el directorio del proyecto.
 
-3. Ejecuta el comando npm install en la ventana de comando o terminal. Esto instalará todas las dependencias necesarias para el proyecto.
+3. Ejecuta el comando `npm install` en la ventana de comando o terminal. Esto instalará todas las dependencias necesarias para el proyecto.
 
-4. Después de que la instalación esté completa, ejecuta el comando npm start. Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
+4. Después de que la instalación esté completa, ejecuta el comando `npm start`. Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
 
 Ahora deberías ver la aplicación funcionando en tu navegador. Puedes interactuar con el contador haciendo clic en el botón "Incrementar contador!". También se mostrará la lista de usuarios, y puedes cargar más usuarios haciendo clic en el botón "Siguiente usuario!". Puedes ocultar o mostrar la lista de usuarios haciendo clic en el botón "Mostrar lista de usuarios".
 
@@ -40,9 +41,9 @@ How to use it
 
 2. Open a command prompt or terminal and navigate to the project directory.
 
-3. Run the command npm install in the command prompt or terminal. This will install all the necessary dependencies for the project.
+3. Run the command `npm install` in the command prompt or terminal. This will install all the necessary dependencies for the project.
 
-4. After the installation is complete, run the command npm start. This will start the development server and launch the application in your default browser.
+4. After the installation is complete, run the command `npm start`. This will start the development server and launch the application in your default browser.
 
 You should now see the application running in your browser. You can interact with the counter by clicking the "Incrementar contador!" button. The user list will also be displayed, and you can load more users by clicking the "Siguiente usuario!" button. You can toggle the visibility of the user list by clicking the "Mostrar lista de usuarios" button.
 
