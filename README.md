@@ -1,5 +1,7 @@
 # Beginner-React.js-Coding-
 
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)]([https://www.youtube.com/watch?v=configuroweb](https://www.youtube.com/watch?v=UiPKBAFxC5I))
+
 Español
 
 Este código es una aplicación de React escrita en TypeScript. La aplicación muestra un contador y permite incrementarlo al hacer clic en un botón. También obtiene información de usuarios aleatorios utilizando la API de "randomuser.me" y muestra la lista de usuarios. Al hacer clic en otro botón, se cargan más usuarios. Además, hay un botón que muestra u oculta la lista de usuarios.
